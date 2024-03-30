@@ -1,0 +1,7 @@
+numpy
+torch
+tokenizers
+ffmpeg-python
+gradio
+requests
+simpleaudio
